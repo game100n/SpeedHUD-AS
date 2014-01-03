@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SpeedHUD</string>
+    <string name="stop">Stop</string>
+    <string name="initial_speed">-.- mph</string>
+    <string name="startSpeedHUD">show speed</string>
+
+</resources>
