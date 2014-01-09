@@ -1,3 +1,5 @@
+DISCONTINUED REFER TO RACEHUD
+
 SpeedHUD - Simple speedometer app for GLASS
 
 Permissions:
